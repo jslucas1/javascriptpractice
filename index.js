@@ -6,6 +6,6 @@ function countMessage(){
 }
 
 function showHello(){
-    let html = "Welcome to the count app";
+    let html = "Welcome to the UA-MIS count app";
     document.getElementById("helloMessage").innerHTML = html;
 }
