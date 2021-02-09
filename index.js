@@ -15,3 +15,7 @@ function showHello(){
     let html = "Welcome to the UA-MIS count app";
     document.getElementById("helloMessage").innerHTML = html;
 }
+
+function newFunction(){
+    console.log("Hello");
+}
